@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,cuisine,restaurant_item,item_price
+1,Sunny Side Diner,American,Classic Cheeseburger,8.99
+1,Sunny Side Diner,American,Grilled Chicken Sandwich,7.49
+1,Sunny Side Diner,American,BLT Sandwich,6.99
+1,Sunny Side Diner,American,Crispy Chicken Tenders,9.49
+1,Sunny Side Diner,American,House Salad,5.99
+1,Sunny Side Diner,American,Pasta Primavera,10.99
+1,Sunny Side Diner,American,Veggie Burger,8.49
+1,Sunny Side Diner,American,Hot Dog,4.99
+1,Sunny Side Diner,American,Fish and Chips,11.99
+1,Sunny Side Diner,American,Mac and Cheese,7.49
+1,Sunny Side Diner,American,Buffalo Wings,9.29
+1,Sunny Side Diner,American,Bacon Cheeseburger,9.99
+1,Sunny Side Diner,American,Chili Fries,6.29
+1,Sunny Side Diner,American,Fried Pickles,4.79
+1,Sunny Side Diner,American,BBQ Chicken Pizza,12.99
+1,Sunny Side Diner,American,Pulled Pork Sandwich,9.89
+1,Sunny Side Diner,American,Grilled Cheese,5.49
+1,Sunny Side Diner,American,Coleslaw,3.99
+1,Sunny Side Diner,American,Mashed Potatoes,4.99
+1,Sunny Side Diner,American,Apple Pie,4.49
+2,Bristol Bistro,American,Cheeseburger Deluxe,9.49
+2,Bristol Bistro,American,Grilled Chicken Club,8.29
+2,Bristol Bistro,American,BLT Wrap,7.79
+2,Bristol Bistro,American,Fried Chicken Strips,10.29
+2,Bristol Bistro,American,Garden Salad,6.49
+2,Bristol Bistro,American,Penne Arrabbiata,11.49
+2,Bristol Bistro,American,Vegan Burger,8.99
+2,Bristol Bistro,American,Footlong Hot Dog,6.49
+2,Bristol Bistro,American,Fried Fish Tacos,12.99
+2,Bristol Bistro,American,Creamy Macaroni,8.19
+2,Bristol Bistro,American,Spicy Buffalo Wings,9.49
+2,Bristol Bistro,American,Bacon Avocado Burger,10.29
+2,Bristol Bistro,American,Loaded Fries,6.79
+2,Bristol Bistro,American,Mozzarella Sticks,5.79
+2,Bristol Bistro,American,BBQ Brisket Sandwich,11.29
+2,Bristol Bistro,American,Turkey Melt,8.89
+2,Bristol Bistro,American,Three Cheese Panini,6.99
+2,Bristol Bistro,American,Sweet Potato Fries,4.79
+2,Bristol Bistro,American,Garlic Mashed Potatoes,5.29
+2,Bristol Bistro,American,Pumpkin Pie,4.79
+3,Parkway Grill,American,BBQ Cheeseburger,10.29
+3,Parkway Grill,American,Grilled Chicken Caesar Wrap,8.79
+3,Parkway Grill,American,BLT Croissant,8.49
+3,Parkway Grill,American,Spicy Chicken Nuggets,9.79
+3,Parkway Grill,American,Mixed Green Salad,5.79
+3,Parkway Grill,American,Spaghetti Aglio e Olio,10.59
+3,Parkway Grill,American,Black Bean Burger,9.19
+3,Parkway Grill,American,Cheese Dog,5.79
+3,Parkway Grill,American,Crispy Fried Fish,12.79
+3,Parkway Grill,American,Cheddar Mac & Cheese,8.29
+3,Parkway Grill,American,Buffalo Chicken Wings,10.49
+3,Parkway Grill,American,Double Bacon Burger,10.99
+3,Parkway Grill,American,Chili Cheese Fries,7.29
+3,Parkway Grill,American,Onion Rings,5.29
+3,Parkway Grill,American,Meat Lovers Pizza,13.49
+3,Parkway Grill,American,Ham & Swiss Sandwich,9.29
+3,Parkway Grill,American,Quesadilla,7.99
+3,Parkway Grill,American,Steamed Broccoli,4.49
+3,Parkway Grill,American,Roasted Potatoes,5.39
+3,Parkway Grill,American,Peach Cobbler,4.99
+4,Route 66 Eatery,American,Hamburger Classic,7.89
+4,Route 66 Eatery,American,Grilled Turkey Sandwich,7.69
+4,Route 66 Eatery,American,Classic BLT,6.89
+4,Route 66 Eatery,American,Southern Fried Chicken,9.19
+4,Route 66 Eatery,American,Cobb Salad,6.39
+4,Route 66 Eatery,American,Pasta Carbonara,11.19
+4,Route 66 Eatery,American,Portobello Mushroom Burger,9.59
+4,Route 66 Eatery,American,Chili Cheese Dog,7.49
+4,Route 66 Eatery,American,Beer-Battered Fish,12.49
+4,Route 66 Eatery,American,Four-Cheese Mac,8.99
+4,Route 66 Eatery,American,Crispy Wings,9.99
+4,Route 66 Eatery,American,Western Burger,10.59
+4,Route 66 Eatery,American,Curly Fries,6.09
+4,Route 66 Eatery,American,Fried Zucchini,5.19
+4,Route 66 Eatery,American,Smoked Turkey Club,10.49
+4,Route 66 Eatery,American,Toasted Ham Sandwich,8.19
+4,Route 66 Eatery,American,Spinach Artichoke Dip,6.79
+4,Route 66 Eatery,American,Seasoned Fries,4.99
+4,Route 66 Eatery,American,Twice Baked Potato,5.99
+4,Route 66 Eatery,American,Cherry Pie,4.59
+5,Elm Street Grill,American,Cheese Steak Burger,11.29
+5,Elm Street Grill,American,BBQ Grilled Chicken Sandwich,8.99
+5,Elm Street Grill,American,BLT Melt,7.99
+5,Elm Street Grill,American,Chicken Fried Steak Tenders,10.99
+5,Elm Street Grill,American,Caesar Salad,6.29
+5,Elm Street Grill,American,Chicken Alfredo Pasta,12.49
+5,Elm Street Grill,American,Falafel Burger,9.49
+5,Elm Street Grill,American,New York Hot Dog,6.79
+5,Elm Street Grill,American,Crispy Fish Sandwich,11.79
+5,Elm Street Grill,American,Truffle Mac and Cheese,9.99
+5,Elm Street Grill,American,Lemon Pepper Wings,10.69
+5,Elm Street Grill,American,Ultimate Cheeseburger,11.49
+5,Elm Street Grill,American,Tex-Mex Fries,7.59
+5,Elm Street Grill,American,Jalapeno Poppers,6.09
+5,Elm Street Grill,American,Pulled Chicken Sliders,9.79
+5,Elm Street Grill,American,Clubhouse Sandwich,9.89
+5,Elm Street Grill,American,Roasted Veggie Panini,8.99
+5,Elm Street Grill,American,Steak Fries,5.59
+5,Elm Street Grill,American,Buttered Corn,4.89
+5,Elm Street Grill,American,Pecan Pie,4.69
+6,Main Street Cafe,American,Classic Hamburger,7.99
+6,Main Street Cafe,American,Chicken Caesar Wrap,8.49
+6,Main Street Cafe,American,Bacon Lettuce Tomato Sandwich,6.99
+6,Main Street Cafe,American,Popcorn Chicken,9.29
+6,Main Street Cafe,American,House Side Salad,5.49
+6,Main Street Cafe,American,Baked Ziti,10.79
+6,Main Street Cafe,American,Impossible Burger,9.19
+6,Main Street Cafe,American,Jumbo Hot Dog,5.49
+6,Main Street Cafe,American,Fish Tenders & Fries,11.29
+6,Main Street Cafe,American,Baked Mac and Cheese,7.89
+6,Main Street Cafe,American,Hot Wings,9.99
+6,Main Street Cafe,American,Bacon Ranch Burger,10.29
+6,Main Street Cafe,American,French Fries with Gravy,6.29
+6,Main Street Cafe,American,Onion Petals,5.19
+6,Main Street Cafe,American,BBQ Chicken Sandwich,9.49
+6,Main Street Cafe,American,Ham Club Sandwich,8.69
+6,Main Street Cafe,American,Veggie Panini,7.99
+6,Main Street Cafe,American,Crinkle Fries,4.49
+6,Main Street Cafe,American,Creamed Spinach,5.19
+6,Main Street Cafe,American,Strawberry Shortcake,4.89
+7,Lakeside Grille,American,Swiss Cheeseburger,9.79
+7,Lakeside Grille,American,Chicken Pesto Sandwich,9.19
+7,Lakeside Grille,American,Toasted BLT,7.29
+7,Lakeside Grille,American,Southern Chicken Bites,10.19
+7,Lakeside Grille,American,Spring Mix Salad,5.89
+7,Lakeside Grille,American,Creamy Alfredo Pasta,11.29
+7,Lakeside Grille,American,Lentil Burger,8.49
+7,Lakeside Grille,American,Beef Hot Dog,5.99
+7,Lakeside Grille,American,Fried Haddock,12.99
+7,Lakeside Grille,American,Mac n’ Cheese Bake,8.49
+7,Lakeside Grille,American,Honey BBQ Wings,9.89
+7,Lakeside Grille,American,Double Cheeseburger,10.79
+7,Lakeside Grille,American,Loaded Tater Tots,7.29
+7,Lakeside Grille,American,Cheesy Breadsticks,5.99
+7,Lakeside Grille,American,BBQ Rib Sandwich,10.29
+7,Lakeside Grille,American,Grilled Ham Melt,8.79
+7,Lakeside Grille,American,Hummus Wrap,7.49
+7,Lakeside Grille,American,Waffle Fries,5.49
+7,Lakeside Grille,American,Green Beans Almondine,4.99
+7,Lakeside Grille,American,Blueberry Cobbler,4.99
+8,Depot Diner,American,Patty Melt,9.29
+8,Depot Diner,American,Chicken Ranch Wrap,8.59
+8,Depot Diner,American,Classic BLT,7.09
+8,Depot Diner,American,Fried Chicken Wings,10.49
+8,Depot Diner,American,Caesar Side Salad,5.69
+8,Depot Diner,American,Pasta with Marinara,9.99
+8,Depot Diner,American,Grilled Portobello Burger,8.79
+8,Depot Diner,American,Cheddar Hot Dog,6.29
+8,Depot Diner,American,Fish Plate with Slaw,11.79
+8,Depot Diner,American,Mac & Cheese Casserole,7.79
+8,Depot Diner,American,Hot Buffalo Wings,10.09
+8,Depot Diner,American,Mushroom Swiss Burger,10.39
+8,Depot Diner,American,Cheesy Fries,6.59
+8,Depot Diner,American,Fried Mushrooms,5.49
+8,Depot Diner,American,BBQ Pulled Pork Wrap,9.69
+8,Depot Diner,American,Turkey Reuben,8.99
+8,Depot Diner,American,Mediterranean Panini,8.29
+8,Depot Diner,American,Homestyle Fries,4.79
+8,Depot Diner,American,Buttered Carrots,4.69
+8,Depot Diner,American,Lemon Meringue Pie,4.59
+9,The Grub Shack,American,Bacon Cheeseburger,10.19
+9,The Grub Shack,American,Grilled Chicken Deluxe,9.29
+9,The Grub Shack,American,BLT Toastie,7.19
+9,The Grub Shack,American,Crunchy Chicken Nuggets,9.89
+9,The Grub Shack,American,Fresh Garden Salad,6.09
+9,The Grub Shack,American,Creamy Penne Pasta,11.79
+9,The Grub Shack,American,Tofu Burger,9.39
+9,The Grub Shack,American,All-American Dog,5.59
+9,The Grub Shack,American,Fried Cod Basket,12.29
+9,The Grub Shack,American,Mac and 4 Cheeses,8.89
+9,The Grub Shack,American,Garlic Parmesan Wings,10.69
+9,The Grub Shack,American,Ultimate Burger,11.19
+9,The Grub Shack,American,Texas Fries,7.19
+9,The Grub Shack,American,Stuffed Jalapenos,5.89
+9,The Grub Shack,American,BBQ Pork Sandwich,10.39
+9,The Grub Shack,American,Grilled Turkey Wrap,8.59
+9,The Grub Shack,American,Avocado Veggie Wrap,8.29
+9,The Grub Shack,American,Skin-On Fries,5.19
+9,The Grub Shack,American,Cajun Corn,4.89
+9,The Grub Shack,American,Chocolate Cream Pie,4.79
+10,Cornerstone Kitchen,American,Western Cheeseburger,10.49
+10,Cornerstone Kitchen,American,Grilled Chicken BLT,9.39
+10,Cornerstone Kitchen,American,BLT with Avocado,7.59
+10,Cornerstone Kitchen,American,Southern Fried Strips,10.89
+10,Cornerstone Kitchen,American,Kale & Spinach Salad,6.49
+10,Cornerstone Kitchen,American,Seafood Pasta,12.89
+10,Cornerstone Kitchen,American,Vegan Beyond Burger,9.69
+10,Cornerstone Kitchen,American,Footlong Sausage Dog,6.29
+10,Cornerstone Kitchen,American,Fried Fish Platter,13.09
+10,Cornerstone Kitchen,American,Smoked Gouda Mac,9.29
+10,Cornerstone Kitchen,American,Tangy Buffalo Wings,10.89
+10,Cornerstone Kitchen,American,Triple Cheeseburger,11.39
+10,Cornerstone Kitchen,American,Crispy Ranch Fries,6.59
+10,Cornerstone Kitchen,American,Breaded Zucchini Chips,5.29
+10,Cornerstone Kitchen,American,Smoked Chicken Wrap,9.89
+10,Cornerstone Kitchen,American,Melty Ham & Cheese,9.19
+10,Cornerstone Kitchen,American,Grilled Veggie Stack,8.79
+10,Cornerstone Kitchen,American,Cottage Fries,5.29
+10,Cornerstone Kitchen,American,Honey Glazed Carrots,5.19
+10,Cornerstone Kitchen,American,Banana Cream Pie,4.89
